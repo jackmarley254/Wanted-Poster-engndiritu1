@@ -1,0 +1,10 @@
+/* 
+  Insert any CSS code below here
+  You can change the div styles if you want!
+*/
+
+div {
+  text-align: center;
+  overflow: hidden;
+  border: 2px solid black;
+}
